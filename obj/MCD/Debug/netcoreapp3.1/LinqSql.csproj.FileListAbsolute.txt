@@ -1,0 +1,11 @@
+C:\Users\Joseph\Desktop\Belangrijke documenten NL\Belangrijke documenten NL 2020-2021\OP3\LinqSql\bin\MCD\Debug\netcoreapp3.1\LinqSql.exe
+C:\Users\Joseph\Desktop\Belangrijke documenten NL\Belangrijke documenten NL 2020-2021\OP3\LinqSql\bin\MCD\Debug\netcoreapp3.1\LinqSql.deps.json
+C:\Users\Joseph\Desktop\Belangrijke documenten NL\Belangrijke documenten NL 2020-2021\OP3\LinqSql\bin\MCD\Debug\netcoreapp3.1\LinqSql.runtimeconfig.json
+C:\Users\Joseph\Desktop\Belangrijke documenten NL\Belangrijke documenten NL 2020-2021\OP3\LinqSql\bin\MCD\Debug\netcoreapp3.1\LinqSql.runtimeconfig.dev.json
+C:\Users\Joseph\Desktop\Belangrijke documenten NL\Belangrijke documenten NL 2020-2021\OP3\LinqSql\bin\MCD\Debug\netcoreapp3.1\LinqSql.dll
+C:\Users\Joseph\Desktop\Belangrijke documenten NL\Belangrijke documenten NL 2020-2021\OP3\LinqSql\bin\MCD\Debug\netcoreapp3.1\LinqSql.pdb
+C:\Users\Joseph\Desktop\Belangrijke documenten NL\Belangrijke documenten NL 2020-2021\OP3\LinqSql\obj\MCD\Debug\netcoreapp3.1\LinqSql.csprojAssemblyReference.cache
+C:\Users\Joseph\Desktop\Belangrijke documenten NL\Belangrijke documenten NL 2020-2021\OP3\LinqSql\obj\MCD\Debug\netcoreapp3.1\LinqSql.AssemblyInfoInputs.cache
+C:\Users\Joseph\Desktop\Belangrijke documenten NL\Belangrijke documenten NL 2020-2021\OP3\LinqSql\obj\MCD\Debug\netcoreapp3.1\LinqSql.AssemblyInfo.cs
+C:\Users\Joseph\Desktop\Belangrijke documenten NL\Belangrijke documenten NL 2020-2021\OP3\LinqSql\obj\MCD\Debug\netcoreapp3.1\LinqSql.dll
+C:\Users\Joseph\Desktop\Belangrijke documenten NL\Belangrijke documenten NL 2020-2021\OP3\LinqSql\obj\MCD\Debug\netcoreapp3.1\LinqSql.pdb
